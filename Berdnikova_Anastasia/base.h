@@ -15,7 +15,7 @@ protected:
     Component *units;
     log::Adapter *adapter;
     //Mediator *mediator;
-    unsigned int width = 5;
+    unsigned int width = 6;
     unsigned int height = 5;
     unsigned int max_item = 5;
     unsigned int now_item = 0;
